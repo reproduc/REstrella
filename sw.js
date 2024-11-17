@@ -5,7 +5,7 @@ const APP_SHELL = [
   "index.html",
   "css/styles.css",
   "js/main.js",
-  "images/beerjs-logo.png",
+  "image/beerjs-logo.png",
 ];
 
 self.addEventListener("install", (e) => {
